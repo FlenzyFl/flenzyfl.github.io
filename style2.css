@@ -1,0 +1,27 @@
+body {
+    background-color:bisque;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    position: center;
+    font-style: none!important;
+    justify-content: space-around;
+}
+ 
+p {
+    font-size: 19px;
+    font-style: italic;
+    line-height: 19px;
+}
+
+center {
+    font-style: italic;
+    justify-content: space-around;
+}
+
+footer {
+    font-size: 20px;
+    justify-content: center;
+}
