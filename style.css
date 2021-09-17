@@ -1,0 +1,83 @@
+.menu {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    font-family: Comic Sans MS;
+    color: white;
+}
+
+body {
+    background-image: url(img/p9mUO.jpg);
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-family: Comic Sans MS;
+    display: flex;
+    justify-content: center;
+
+}
+
+.menu2 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+h2,
+h3 {
+    color: white;
+    font-family: Comic Sans MS;
+    display: flex;
+    justify-content: center;
+}
+
+b {
+    display: flex;
+    justify-content: center;
+    size: 5px;
+}
+
+.sites {
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+    color: teal;
+}
+
+.sites a {
+    color: wheat;
+}
+
+.sites a:hover {
+    color: blue;
+}
+
+a:hover {
+    transition-duration: 1s;
+    transform: rotate(2grad);
+}
+
+.footer, .footer2 {
+    height: 70px;
+    width: 200px;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 730px;
+}
+
+video {
+    height: 70px;
+    width: 200px;
+    position: relative;
+    /*ЕСЛИ ЧТО Я ТАК И ХОТЕЛ*/
+}
+
+.footer2 {
+    margin-top: 190px !important;
+}
