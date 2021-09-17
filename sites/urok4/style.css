@@ -1,0 +1,55 @@
+body {
+    background-color: bisque;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    position: center;
+    font-style: none !important;
+    justify-content: space-around;
+}
+
+p {
+    font-size: 19px;
+    font-style: italic;
+    line-height: 19px;
+}
+
+center {
+    font-style: italic;
+    justify-content: space-around;
+}
+
+footer {
+    font-size: 20px;
+    justify-content: center;
+}
+
+.tabl {
+    width: 300px;
+    border: 3px solid #000;
+    margin: auto;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 15px;
+    padding: 6px;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    border: 1.5px solid black;
+}
+
+.menu {
+    background: darkgray;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}

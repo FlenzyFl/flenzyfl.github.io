@@ -1,0 +1,36 @@
+.wrapper {
+ width: 500px;
+ background: green;
+ padding: 10px;
+ margin: 0 auto;
+ height: 500px;
+}
+
+.leftblock {
+ background: white;
+ border: 1px solid silver ;
+ float: left;
+ height: 500px;
+ margin-right: 10px;
+}
+
+.main {
+    background: white;
+    border: 1px solid silver ;
+    height: 500px;
+    width: 370px;
+    float: right;
+}
+
+li {
+ background: blue;
+ list-style: none;
+width: 100px;
+height: 20px;
+padding: 0 3px;
+margin: 5px;
+}
+
+ul {
+    padding: 0 5px;
+}
